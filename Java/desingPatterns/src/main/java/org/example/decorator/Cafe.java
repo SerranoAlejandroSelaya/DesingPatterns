@@ -1,6 +1,6 @@
 package org.example.decorator;
 
 public interface Cafe {
-    String optainCoffe();
+    String obtainCoffee();
     double getPrice();
 }
